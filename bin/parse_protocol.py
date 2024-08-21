@@ -254,7 +254,7 @@ class Auto:
         'GEXSCOPE-MicroBead'
         """
 
-        for protocol in ["GEXSCOPE-V2", "GEXSCOPE-V1"]:
+        for protocol in ["GEXSCOPE-V2", "GEXSCOPE-V1", "AccuraCode"]:
             if self.is_protocol(seq, protocol):
                 return protocol
 

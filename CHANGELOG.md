@@ -21,3 +21,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Fix an issue where the pipeline do not work when `--protocol` is set to `new`.
+
+
+## 1.2.2 - [2024-09-05]
+
+### Added
+- Add a new parameter `star_cpus`.
